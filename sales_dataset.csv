@@ -1,0 +1,251 @@
+OrderID,OrderDate,CustomerID,Region,CustomerSegment,Product,Category,Quantity,UnitPrice,Sales,CostPerUnit,Profit
+ORD1142,2024-01-13,CUST507,North,Wholesale,Sticky Notes,Office Supplies,5,167.89,839.45,103.58,321.55
+ORD1006,2024-01-07,CUST535,Central,Retail,Printer Ink,Consumables,7,119.27,834.89,79.65,277.34
+ORD1097,2024-01-17,CUST510,East,Retail,Sticky Notes,Office Supplies,5,204.46,1022.3,152.9,257.8
+ORD1060,2024-04-19,CUST534,North,Online,Notebook B,Stationery,7,157.94,1105.58,130.73,190.47
+ORD1112,2024-01-01,CUST536,South,Online,Desk Lamp,Electronics,4,197.52,790.08,125.39,288.52
+ORD1181,2024-02-20,CUST552,East,Retail,Sticky Notes,Office Supplies,3,260.71,782.13,172.3,265.23
+ORD1197,2024-03-19,CUST530,West,Wholesale,Calculator Z,Electronics,5,157.8,789.0,127.27,152.65
+ORD1184,2024-01-04,CUST524,North,Wholesale,Scissors,Office Supplies,3,261.85,785.55,191.49,211.08
+ORD1009,2024-01-03,CUST519,Central,Wholesale,Calculator Z,Electronics,2,271.02,542.04,221.09,99.86
+ORD1104,2024-01-16,CUST558,Central,Retail,Notebook B,Stationery,3,320.32,960.96,261.2,177.36
+ORD1200,2024-01-22,CUST509,North,Online,Calculator Z,Electronics,7,71.92,503.44,57.85,98.49
+ORD1216,2024-01-03,CUST529,West,Wholesale,Notebook A,Stationery,2,92.23,184.46,63.4,57.66
+ORD1236,2024-02-23,CUST504,South,Wholesale,Notebook B,Stationery,3,282.64,847.92,229.08,160.68
+ORD1240,2024-01-09,CUST513,North,Online,Sticky Notes,Office Supplies,4,319.42,1277.68,196.87,490.2
+ORD1067,2024-01-22,CUST512,West,Online,Marker Set,Stationery,6,198.82,1192.92,132.13,400.14
+ORD1224,2024-03-24,CUST534,East,Wholesale,Calculator Z,Electronics,1,192.45,192.45,150.4,42.05
+ORD1194,2024-01-12,CUST516,West,Online,Marker Set,Stationery,7,208.68,1460.76,128.35,562.31
+ORD1015,2024-02-21,CUST510,East,Retail,Scissors,Office Supplies,2,173.79,347.58,126.46,94.66
+ORD1177,2024-02-19,CUST509,South,Online,Calculator Z,Electronics,5,186.15,930.75,126.8,296.75
+ORD1024,2024-03-10,CUST501,South,Wholesale,Marker Set,Stationery,5,220.04,1100.2,167.34,263.5
+ORD1247,2024-02-03,CUST532,North,Wholesale,Calculator Z,Electronics,5,195.36,976.8,142.25,265.55
+ORD1019,2024-01-21,CUST509,South,Online,Scissors,Office Supplies,5,179.28,896.4,140.21,195.35
+ORD1114,2024-02-01,CUST546,North,Wholesale,Notebook B,Stationery,3,121.73,365.19,77.2,133.59
+ORD1068,2024-04-27,CUST502,North,Retail,Calculator Z,Electronics,4,263.71,1054.84,163.23,401.92
+ORD1176,2024-04-23,CUST522,West,Wholesale,Marker Set,Stationery,7,139.66,977.62,95.21,311.15
+ORD1045,2024-02-04,CUST523,West,Online,Desk Lamp,Electronics,2,152.85,305.7,96.23,113.24
+ORD1055,2024-01-04,CUST540,Central,Online,Pen Pro,Stationery,4,191.3,765.2,128.44,251.44
+ORD1010,2024-01-13,CUST543,South,Online,Notebook A,Stationery,2,294.38,588.76,223.55,141.66
+ORD1030,2024-01-17,CUST523,South,Online,Printer Ink,Consumables,7,217.13,1519.91,181.09,252.28
+ORD1120,2024-01-18,CUST508,Central,Online,Calculator Z,Electronics,5,173.21,866.05,129.48,218.65
+ORD1201,2024-03-04,CUST508,South,Wholesale,Stapler X,Office Supplies,5,104.97,524.85,81.22,118.75
+ORD1033,2024-01-21,CUST517,North,Retail,Stapler X,Office Supplies,7,220.58,1544.06,137.53,581.35
+ORD1141,2024-04-29,CUST565,East,Retail,Notebook A,Stationery,5,221.33,1106.65,162.75,292.9
+ORD1219,2024-01-07,CUST500,West,Online,Notebook A,Stationery,4,139.46,557.84,102.16,149.2
+ORD1025,2024-01-06,CUST521,South,Online,Marker Set,Stationery,3,227.72,683.16,142.41,255.93
+ORD1111,2024-01-30,CUST511,South,Wholesale,Marker Set,Stationery,4,277.75,1111.0,222.19,222.24
+ORD1018,2024-01-29,CUST503,Central,Wholesale,Stapler X,Office Supplies,2,238.22,476.44,157.2,162.04
+ORD1196,2024-01-13,CUST597,South,Online,Calculator Z,Electronics,5,206.5,1032.5,131.77,373.65
+ORD1180,2024-01-13,CUST528,East,Retail,Scissors,Office Supplies,4,290.09,1160.36,218.14,287.8
+ORD1159,2024-01-06,CUST516,East,Wholesale,Marker Set,Stationery,5,249.49,1247.45,180.77,343.6
+ORD1118,2024-02-09,CUST518,North,Retail,Marker Set,Stationery,2,410.59,821.18,273.27,274.64
+ORD1096,2024-03-21,CUST518,West,Retail,Printer Ink,Consumables,5,210.34,1051.7,156.51,269.15
+ORD1108,2024-01-16,CUST500,West,Online,Notebook B,Stationery,3,124.77,374.31,102.82,65.85
+ORD1185,2024-01-04,CUST518,Central,Retail,Desk Lamp,Electronics,6,210.02,1260.12,175.97,204.3
+ORD1222,2024-01-04,CUST550,North,Wholesale,Pen Pro,Stationery,4,224.33,897.32,182.07,169.04
+ORD1016,2024-01-08,CUST524,Central,Retail,Calculator Z,Electronics,2,187.1,374.2,136.53,101.14
+ORD1146,2024-01-08,CUST560,East,Wholesale,Pen Pro,Stationery,3,185.78,557.34,124.16,184.86
+ORD1069,2024-01-05,CUST545,North,Wholesale,Sticky Notes,Office Supplies,2,111.9,223.8,76.81,70.18
+ORD1173,2024-02-06,CUST503,North,Wholesale,Printer Ink,Consumables,4,150.1,600.4,122.64,109.84
+ORD1038,2024-01-24,CUST528,Central,Wholesale,Printer Ink,Consumables,7,78.45,549.15,54.05,170.8
+ORD1132,2024-01-08,CUST530,East,Retail,Notebook A,Stationery,2,239.4,478.8,154.8,169.2
+ORD1225,2024-01-08,CUST523,East,Wholesale,Desk Lamp,Electronics,7,193.13,1351.91,143.16,349.79
+ORD1238,2024-01-21,CUST521,Central,Online,Stapler X,Office Supplies,4,120.13,480.52,94.64,101.96
+ORD1119,2024-01-02,CUST523,East,Retail,Marker Set,Stationery,5,214.39,1071.95,155.19,296.0
+ORD1136,2024-01-16,CUST504,North,Online,Notebook B,Stationery,4,286.69,1146.76,177.82,435.48
+ORD1066,2024-01-01,CUST508,East,Wholesale,Sticky Notes,Office Supplies,4,270.23,1080.92,223.22,188.04
+ORD1217,2024-02-02,CUST521,South,Wholesale,Desk Lamp,Electronics,2,122.27,244.54,76.37,91.8
+ORD1154,2024-01-22,CUST501,Central,Wholesale,Marker Set,Stationery,2,342.53,685.06,208.36,268.34
+ORD1168,2024-01-02,CUST506,West,Wholesale,Stapler X,Office Supplies,8,268.02,2144.16,168.31,797.68
+ORD1229,2024-01-12,CUST612,North,Retail,Notebook B,Stationery,2,251.86,503.72,206.31,91.1
+ORD1233,2024-01-22,CUST501,Central,Retail,Notebook B,Stationery,3,148.06,444.18,104.9,129.48
+ORD1156,2024-02-06,CUST501,East,Retail,Notebook B,Stationery,1,164.4,164.4,137.12,27.28
+ORD1117,2024-01-15,CUST555,East,Retail,Printer Ink,Consumables,4,124.05,496.2,95.01,116.16
+ORD1084,2024-01-02,CUST592,South,Retail,Sticky Notes,Office Supplies,2,221.42,442.84,136.36,170.12
+ORD1125,2024-01-04,CUST515,North,Online,Notebook B,Stationery,3,179.12,537.36,121.59,172.59
+ORD1167,2024-01-06,CUST503,East,Online,Notebook B,Stationery,5,320.06,1600.3,205.4,573.3
+ORD1245,2024-01-25,CUST524,North,Online,Marker Set,Stationery,4,156.65,626.6,96.64,240.04
+ORD1109,2024-01-03,CUST544,Central,Online,Scissors,Office Supplies,2,226.09,452.18,159.47,133.24
+ORD1172,2024-01-22,CUST507,East,Wholesale,Scissors,Office Supplies,3,236.2,708.6,143.49,278.13
+ORD1234,2024-01-08,CUST516,East,Wholesale,Calculator Z,Electronics,9,291.79,2626.11,203.07,798.48
+ORD1073,2024-01-03,CUST504,South,Retail,Notebook A,Stationery,3,268.11,804.33,211.02,171.27
+ORD1158,2024-01-31,CUST505,Central,Wholesale,Notebook B,Stationery,3,276.01,828.03,169.77,318.72
+ORD1115,2024-03-03,CUST514,Central,Retail,Scissors,Office Supplies,4,187.35,749.4,130.36,227.96
+ORD1075,2024-01-02,CUST505,South,Wholesale,Printer Ink,Consumables,5,189.77,948.85,139.13,253.2
+ORD1237,2024-02-18,CUST526,Central,Retail,Notebook B,Stationery,3,184.4,553.2,114.36,210.12
+ORD1082,2024-01-10,CUST514,North,Retail,Notebook A,Stationery,3,216.6,649.8,153.0,190.8
+ORD1029,2024-01-01,CUST552,East,Online,Desk Lamp,Electronics,6,197.24,1183.44,119.11,468.78
+ORD1126,2024-02-16,CUST540,South,Wholesale,Printer Ink,Consumables,5,210.8,1054.0,127.77,415.15
+ORD1079,2024-02-01,CUST506,South,Retail,Desk Lamp,Electronics,5,147.95,739.75,95.67,261.4
+ORD1086,2024-04-10,CUST527,South,Wholesale,Desk Lamp,Electronics,4,117.39,469.56,72.39,180.0
+ORD1005,2024-01-02,CUST515,South,Retail,Notebook B,Stationery,4,348.18,1392.72,254.18,376.0
+ORD1056,2024-01-08,CUST500,Central,Wholesale,Notebook A,Stationery,2,232.14,464.28,195.57,73.14
+ORD1186,2024-02-21,CUST510,West,Wholesale,Desk Lamp,Electronics,3,165.65,496.95,124.69,122.88
+ORD1231,2024-01-27,CUST516,South,Retail,Scissors,Office Supplies,3,301.01,903.03,224.25,230.28
+ORD1170,2024-01-22,CUST586,South,Wholesale,Pen Pro,Stationery,1,117.2,117.2,74.67,42.53
+ORD1065,2024-02-27,CUST502,South,Online,Desk Lamp,Electronics,5,319.12,1595.6,208.46,553.3
+ORD1140,2024-01-06,CUST519,East,Wholesale,Notebook A,Stationery,4,211.74,846.96,142.24,278.0
+ORD1124,2024-03-27,CUST505,South,Wholesale,Notebook B,Stationery,6,284.25,1705.5,212.92,427.98
+ORD1213,2024-01-12,CUST512,Central,Online,Printer Ink,Consumables,5,216.57,1082.85,178.77,189.0
+ORD1148,2024-01-01,CUST529,West,Retail,Notebook B,Stationery,6,183.47,1100.82,149.92,201.3
+ORD1031,2024-01-26,CUST541,North,Retail,Marker Set,Stationery,4,100.34,401.36,73.21,108.52
+ORD1012,2024-01-23,CUST547,South,Wholesale,Pen Pro,Stationery,2,86.5,173.0,62.9,47.2
+ORD1035,2024-02-14,CUST515,West,Online,Calculator Z,Electronics,3,287.12,861.36,175.98,333.42
+ORD1028,2024-01-09,CUST506,South,Wholesale,Sticky Notes,Office Supplies,7,87.49,612.43,68.3,134.33
+ORD1042,2024-02-02,CUST500,North,Retail,Notebook B,Stationery,2,85.13,170.26,64.75,40.76
+ORD1218,2024-02-13,CUST509,Central,Online,Pen Pro,Stationery,2,279.68,559.36,211.48,136.4
+ORD1022,2024-02-01,CUST541,North,Wholesale,Sticky Notes,Office Supplies,3,137.34,412.02,114.15,69.57
+ORD1093,2024-01-16,CUST523,West,Retail,Pen Pro,Stationery,3,277.11,831.33,210.68,199.29
+ORD1212,2024-02-10,CUST530,West,Wholesale,Stapler X,Office Supplies,4,222.79,891.16,186.88,143.64
+ORD1101,2024-04-07,CUST501,West,Online,Scissors,Office Supplies,3,200.06,600.18,149.81,150.75
+ORD1051,2024-01-18,CUST502,East,Online,Notebook A,Stationery,3,233.03,699.09,175.83,171.6
+ORD1095,2024-01-16,CUST541,West,Online,Stapler X,Office Supplies,4,395.66,1582.64,239.19,625.88
+ORD1143,2024-02-06,CUST541,West,Online,Printer Ink,Consumables,2,295.6,591.2,180.74,229.72
+ORD1199,2024-01-14,CUST518,South,Wholesale,Calculator Z,Electronics,3,132.15,396.45,94.06,114.27
+ORD1076,2024-01-10,CUST504,South,Online,Calculator Z,Electronics,2,123.56,247.12,84.09,78.94
+ORD1041,2024-01-16,CUST538,Central,Wholesale,Pen Pro,Stationery,3,315.3,945.9,228.84,259.38
+ORD1113,2024-05-04,CUST516,West,Wholesale,Stapler X,Office Supplies,3,215.67,647.01,144.18,214.47
+ORD1152,2024-01-20,CUST502,West,Wholesale,Sticky Notes,Office Supplies,6,197.97,1187.82,142.56,332.46
+ORD1078,2024-01-27,CUST509,South,Wholesale,Calculator Z,Electronics,3,318.4,955.2,213.63,314.31
+ORD1147,2024-01-05,CUST504,East,Retail,Sticky Notes,Office Supplies,5,271.83,1359.15,178.73,465.5
+ORD1026,2024-01-01,CUST507,North,Online,Stapler X,Office Supplies,4,258.76,1035.04,170.6,352.64
+ORD1241,2024-01-02,CUST510,North,Online,Sticky Notes,Office Supplies,3,178.31,534.93,130.72,142.77
+ORD1164,2024-04-16,CUST511,South,Wholesale,Printer Ink,Consumables,4,220.85,883.4,180.59,161.04
+ORD1243,2024-01-02,CUST504,North,Wholesale,Scissors,Office Supplies,5,206.99,1034.95,158.05,244.7
+ORD1137,2024-02-04,CUST508,Central,Retail,Pen Pro,Stationery,3,402.15,1206.45,324.2,233.85
+ORD1000,2024-01-15,CUST570,North,Online,Notebook B,Stationery,5,326.34,1631.7,197.48,644.3
+ORD1002,2024-01-23,CUST530,North,Online,Pen Pro,Stationery,4,127.36,509.44,90.94,145.68
+ORD1077,2024-01-12,CUST515,Central,Online,Pen Pro,Stationery,4,199.36,797.44,123.95,301.64
+ORD1046,2024-01-30,CUST532,Central,Wholesale,Calculator Z,Electronics,5,267.97,1339.85,211.07,284.5
+ORD1100,2024-01-21,CUST503,North,Retail,Marker Set,Stationery,6,79.75,478.5,61.08,112.02
+ORD1127,2024-01-01,CUST582,Central,Retail,Stapler X,Office Supplies,8,383.91,3071.28,314.2,557.68
+ORD1150,2024-01-04,CUST513,East,Wholesale,Calculator Z,Electronics,3,256.72,770.16,166.9,269.46
+ORD1248,2024-01-19,CUST508,West,Online,Marker Set,Stationery,2,148.32,296.64,95.1,106.44
+ORD1090,2024-03-25,CUST519,South,Retail,Notebook B,Stationery,3,207.65,622.95,165.81,125.52
+ORD1085,2024-01-12,CUST535,West,Retail,Printer Ink,Consumables,6,58.38,350.28,48.59,58.74
+ORD1175,2024-02-03,CUST500,Central,Online,Scissors,Office Supplies,4,224.21,896.84,190.55,134.64
+ORD1195,2024-04-04,CUST528,West,Online,Printer Ink,Consumables,3,126.8,380.4,90.36,109.32
+ORD1098,2024-01-02,CUST510,Central,Online,Notebook A,Stationery,3,287.54,862.62,196.5,273.12
+ORD1036,2024-01-24,CUST565,South,Wholesale,Calculator Z,Electronics,7,136.6,956.2,82.83,376.39
+ORD1061,2024-03-30,CUST587,North,Online,Calculator Z,Electronics,6,194.11,1164.66,155.8,229.86
+ORD1162,2024-03-01,CUST517,North,Online,Stapler X,Office Supplies,7,82.85,579.95,55.44,191.87
+ORD1139,2024-02-04,CUST527,West,Retail,Pen Pro,Stationery,6,186.63,1119.78,127.61,354.12
+ORD1011,2024-01-20,CUST513,East,Wholesale,Desk Lamp,Electronics,4,128.14,512.56,101.58,106.24
+ORD1244,2024-01-25,CUST538,West,Online,Printer Ink,Consumables,5,165.86,829.3,109.92,279.7
+ORD1198,2024-02-07,CUST506,East,Online,Sticky Notes,Office Supplies,1,228.93,228.93,154.71,74.22
+ORD1027,2024-02-11,CUST506,Central,Online,Pen Pro,Stationery,5,123.64,618.2,85.55,190.45
+ORD1155,2024-01-16,CUST520,East,Retail,Printer Ink,Consumables,4,160.52,642.08,100.51,240.04
+ORD1004,2024-01-03,CUST513,North,Retail,Desk Lamp,Electronics,5,151.86,759.3,95.75,280.55
+ORD1122,2024-02-02,CUST557,North,Online,Printer Ink,Consumables,5,209.57,1047.85,177.49,160.4
+ORD1032,2024-02-10,CUST514,East,Wholesale,Notebook A,Stationery,5,224.36,1121.8,185.84,192.6
+ORD1144,2024-04-18,CUST507,South,Retail,Pen Pro,Stationery,5,78.15,390.75,47.32,154.15
+ORD1178,2024-01-16,CUST505,South,Online,Calculator Z,Electronics,4,201.25,805.0,139.53,246.88
+ORD1138,2024-02-03,CUST523,Central,Online,Marker Set,Stationery,8,157.53,1260.24,127.48,240.4
+ORD1062,2024-01-05,CUST501,South,Online,Pen Pro,Stationery,7,177.42,1241.94,118.58,411.88
+ORD1135,2024-01-27,CUST501,Central,Retail,Desk Lamp,Electronics,3,243.48,730.44,179.62,191.58
+ORD1128,2024-02-13,CUST508,South,Online,Marker Set,Stationery,4,170.97,683.88,107.3,254.68
+ORD1226,2024-03-02,CUST504,North,Wholesale,Stapler X,Office Supplies,4,183.28,733.12,146.63,146.6
+ORD1205,2024-01-31,CUST501,South,Retail,Pen Pro,Stationery,4,144.91,579.64,122.99,87.68
+ORD1070,2024-01-20,CUST503,Central,Online,Notebook A,Stationery,3,239.01,717.03,145.85,279.48
+ORD1192,2024-01-03,CUST501,South,Wholesale,Calculator Z,Electronics,4,330.27,1321.08,227.47,411.2
+ORD1064,2024-01-14,CUST514,Central,Online,Stapler X,Office Supplies,3,242.84,728.52,192.59,150.75
+ORD1044,2024-01-07,CUST501,Central,Retail,Desk Lamp,Electronics,2,247.07,494.14,149.37,195.4
+ORD1165,2024-01-22,CUST521,North,Online,Desk Lamp,Electronics,3,229.94,689.82,152.8,231.42
+ORD1040,2024-02-06,CUST511,East,Retail,Desk Lamp,Electronics,2,15.12,30.24,9.73,10.78
+ORD1123,2024-01-02,CUST570,East,Online,Printer Ink,Consumables,6,113.52,681.12,94.35,115.02
+ORD1153,2024-01-09,CUST507,North,Wholesale,Stapler X,Office Supplies,4,241.99,967.96,145.79,384.8
+ORD1023,2024-01-09,CUST545,West,Online,Stapler X,Office Supplies,5,174.24,871.2,108.6,328.2
+ORD1211,2024-01-19,CUST507,North,Wholesale,Calculator Z,Electronics,3,246.34,739.02,157.04,267.9
+ORD1183,2024-01-11,CUST510,South,Wholesale,Notebook A,Stationery,4,321.16,1284.64,214.58,426.32
+ORD1081,2024-01-04,CUST516,West,Wholesale,Desk Lamp,Electronics,6,242.27,1453.62,179.08,379.14
+ORD1039,2024-01-01,CUST538,West,Online,Scissors,Office Supplies,2,161.26,322.52,98.4,125.72
+ORD1209,2024-01-07,CUST506,Central,Online,Desk Lamp,Electronics,6,153.88,923.28,93.07,364.86
+ORD1047,2024-05-19,CUST502,North,Online,Printer Ink,Consumables,4,324.23,1296.92,255.7,274.12
+ORD1094,2024-01-24,CUST517,East,Wholesale,Desk Lamp,Electronics,3,277.88,833.64,229.84,144.12
+ORD1190,2024-01-15,CUST510,West,Retail,Printer Ink,Consumables,4,329.87,1319.48,255.25,298.48
+ORD1161,2024-01-01,CUST500,Central,Retail,Desk Lamp,Electronics,6,101.94,611.64,86.33,93.66
+ORD1043,2024-01-27,CUST547,South,Online,Pen Pro,Stationery,6,187.86,1127.16,157.86,180.0
+ORD1145,2024-01-21,CUST523,West,Retail,Pen Pro,Stationery,6,101.61,609.66,81.16,122.7
+ORD1182,2024-01-02,CUST505,South,Retail,Sticky Notes,Office Supplies,3,222.5,667.5,160.53,185.91
+ORD1003,2024-01-07,CUST503,North,Online,Printer Ink,Consumables,3,87.02,261.06,65.43,64.77
+ORD1105,2024-01-15,CUST500,West,Retail,Sticky Notes,Office Supplies,4,238.83,955.32,182.64,224.76
+ORD1053,2024-01-03,CUST502,Central,Online,Stapler X,Office Supplies,8,37.03,296.24,30.61,51.36
+ORD1133,2024-01-13,CUST523,South,Online,Stapler X,Office Supplies,3,170.13,510.39,134.33,107.4
+ORD1227,2024-01-25,CUST516,Central,Retail,Notebook A,Stationery,4,131.96,527.84,105.03,107.72
+ORD1193,2024-01-22,CUST515,Central,Online,Printer Ink,Consumables,3,282.49,847.47,215.46,201.09
+ORD1232,2024-01-25,CUST531,West,Online,Pen Pro,Stationery,6,289.27,1735.62,224.74,387.18
+ORD1049,2024-01-03,CUST527,North,Wholesale,Marker Set,Stationery,6,119.52,717.12,91.81,166.26
+ORD1163,2024-03-14,CUST505,North,Online,Desk Lamp,Electronics,5,239.52,1197.6,154.47,425.25
+ORD1080,2024-01-06,CUST580,West,Wholesale,Notebook B,Stationery,3,161.03,483.09,113.14,143.67
+ORD1034,2024-01-02,CUST514,East,Retail,Scissors,Office Supplies,4,162.25,649.0,102.5,239.0
+ORD1206,2024-02-05,CUST507,West,Wholesale,Desk Lamp,Electronics,3,194.99,584.97,122.91,216.24
+ORD1007,2024-01-14,CUST501,South,Online,Printer Ink,Consumables,3,73.34,220.02,58.71,43.89
+ORD1171,2024-04-10,CUST512,South,Online,Desk Lamp,Electronics,1,211.15,211.15,172.51,38.64
+ORD1110,2024-02-21,CUST506,East,Retail,Marker Set,Stationery,3,99.91,299.73,74.69,75.66
+ORD1091,2024-01-23,CUST516,West,Wholesale,Desk Lamp,Electronics,4,266.43,1065.72,162.09,417.36
+ORD1083,2024-01-09,CUST515,East,Retail,Desk Lamp,Electronics,3,108.87,326.61,78.42,91.35
+ORD1223,2024-01-09,CUST583,East,Retail,Desk Lamp,Electronics,7,221.27,1548.89,162.91,408.52
+ORD1228,2024-01-01,CUST509,South,Online,Marker Set,Stationery,2,137.21,274.42,115.19,44.04
+ORD1089,2024-01-11,CUST502,Central,Retail,Notebook A,Stationery,5,271.39,1356.95,205.19,331.0
+ORD1008,2024-05-10,CUST529,West,Retail,Printer Ink,Consumables,3,246.57,739.71,192.88,161.07
+ORD1013,2024-01-09,CUST503,North,Wholesale,Notebook B,Stationery,4,283.4,1133.6,190.57,371.32
+ORD1059,2024-03-07,CUST501,South,Online,Notebook A,Stationery,4,30.09,120.36,22.44,30.6
+ORD1215,2024-02-04,CUST525,West,Wholesale,Stapler X,Office Supplies,1,205.01,205.01,127.35,77.66
+ORD1131,2024-01-19,CUST514,East,Retail,Desk Lamp,Electronics,4,213.32,853.28,160.4,211.68
+ORD1017,2024-01-14,CUST500,North,Online,Desk Lamp,Electronics,5,232.32,1161.6,155.94,381.9
+ORD1166,2024-01-12,CUST501,Central,Wholesale,Marker Set,Stationery,4,193.05,772.2,127.22,263.32
+ORD1072,2024-01-22,CUST519,North,Online,Notebook A,Stationery,2,117.18,234.36,93.73,46.9
+ORD1220,2024-04-13,CUST552,North,Retail,Scissors,Office Supplies,7,131.7,921.9,90.16,290.78
+ORD1134,2024-01-06,CUST517,Central,Online,Calculator Z,Electronics,3,106.11,318.33,77.91,84.6
+ORD1204,2024-04-08,CUST502,West,Online,Sticky Notes,Office Supplies,5,185.04,925.2,131.36,268.4
+ORD1230,2024-01-14,CUST501,South,Retail,Sticky Notes,Office Supplies,6,77.95,467.7,62.25,94.2
+ORD1063,2024-03-01,CUST519,Central,Retail,Calculator Z,Electronics,9,90.51,814.59,69.5,189.09
+ORD1054,2024-01-21,CUST501,South,Wholesale,Sticky Notes,Office Supplies,1,325.6,325.6,233.51,92.09
+ORD1107,2024-01-06,CUST535,North,Online,Scissors,Office Supplies,3,265.11,795.33,215.78,147.99
+ORD1050,2024-02-17,CUST515,South,Wholesale,Desk Lamp,Electronics,3,102.86,308.58,63.2,118.98
+ORD1239,2024-04-04,CUST506,West,Online,Desk Lamp,Electronics,2,224.14,448.28,150.3,147.68
+ORD1174,2024-02-05,CUST523,South,Wholesale,Stapler X,Office Supplies,8,353.12,2824.96,294.06,472.48
+ORD1208,2024-01-11,CUST511,South,Wholesale,Notebook A,Stationery,4,200.24,800.96,164.53,142.84
+ORD1189,2024-01-08,CUST505,South,Online,Sticky Notes,Office Supplies,2,297.97,595.94,219.51,156.92
+ORD1246,2024-01-24,CUST537,North,Wholesale,Marker Set,Stationery,2,98.69,197.38,82.55,32.28
+ORD1207,2024-01-04,CUST519,West,Wholesale,Printer Ink,Consumables,2,212.85,425.7,171.02,83.66
+ORD1221,2024-01-08,CUST505,South,Wholesale,Desk Lamp,Electronics,4,228.74,914.96,191.17,150.28
+ORD1169,2024-01-02,CUST507,East,Online,Desk Lamp,Electronics,3,189.53,568.59,157.97,94.68
+ORD1058,2024-02-05,CUST560,East,Retail,Marker Set,Stationery,5,204.35,1021.75,136.96,336.95
+ORD1048,2024-03-10,CUST547,Central,Wholesale,Notebook B,Stationery,5,164.84,824.2,99.35,327.45
+ORD1088,2024-01-23,CUST512,Central,Retail,Calculator Z,Electronics,5,174.48,872.4,121.13,266.75
+ORD1021,2024-01-27,CUST505,East,Retail,Sticky Notes,Office Supplies,2,273.85,547.7,199.37,148.96
+ORD1057,2024-03-07,CUST519,North,Retail,Calculator Z,Electronics,3,237.89,713.67,173.84,192.15
+ORD1203,2024-01-06,CUST502,South,Retail,Notebook B,Stationery,3,151.24,453.72,91.72,178.56
+ORD1160,2024-02-08,CUST501,Central,Retail,Scissors,Office Supplies,5,290.35,1451.75,223.59,333.8
+ORD1242,2024-01-13,CUST555,Central,Retail,Stapler X,Office Supplies,2,219.77,439.54,162.64,114.26
+ORD1187,2024-02-24,CUST502,South,Online,Sticky Notes,Office Supplies,5,176.4,882.0,135.28,205.6
+ORD1191,2024-01-17,CUST501,South,Retail,Printer Ink,Consumables,5,245.52,1227.6,164.14,406.9
+ORD1129,2024-01-11,CUST504,Central,Wholesale,Stapler X,Office Supplies,3,45.31,135.93,34.88,31.29
+ORD1037,2024-02-24,CUST505,South,Online,Pen Pro,Stationery,3,190.82,572.46,121.95,206.61
+ORD1157,2024-01-24,CUST512,East,Retail,Scissors,Office Supplies,7,209.16,1464.12,168.23,286.51
+ORD1235,2024-01-27,CUST500,Central,Online,Pen Pro,Stationery,3,175.66,526.98,106.55,207.33
+ORD1001,2024-02-23,CUST507,South,Retail,Stapler X,Office Supplies,2,261.39,522.78,168.82,185.14
+ORD1052,2024-01-03,CUST501,Central,Retail,Pen Pro,Stationery,3,154.9,464.7,120.29,103.83
+ORD1149,2024-02-14,CUST513,South,Retail,Calculator Z,Electronics,5,215.72,1078.6,172.39,216.65
+ORD1130,2024-03-30,CUST557,North,Retail,Stapler X,Office Supplies,3,103.41,310.23,84.77,55.92
+ORD1151,2024-01-02,CUST509,South,Retail,Sticky Notes,Office Supplies,4,177.85,711.4,109.93,271.68
+ORD1103,2024-01-20,CUST511,North,Retail,Printer Ink,Consumables,2,179.6,359.2,131.31,96.58
+ORD1099,2024-01-24,CUST503,North,Online,Printer Ink,Consumables,5,179.23,896.15,113.85,326.9
+ORD1116,2024-01-02,CUST505,Central,Retail,Notebook B,Stationery,3,264.53,793.59,198.61,197.76
+ORD1087,2024-01-26,CUST521,South,Retail,Calculator Z,Electronics,4,174.52,698.08,140.25,137.08
+ORD1202,2024-04-21,CUST528,East,Online,Marker Set,Stationery,6,171.76,1030.56,129.09,256.02
+ORD1074,2024-01-08,CUST527,East,Retail,Notebook A,Stationery,4,150.37,601.48,107.61,171.04
+ORD1214,2024-01-31,CUST514,West,Retail,Sticky Notes,Office Supplies,5,104.7,523.5,82.12,112.9
+ORD1210,2024-02-12,CUST515,Central,Wholesale,Notebook A,Stationery,3,10.08,30.24,6.32,11.28
+ORD1121,2024-01-03,CUST532,Central,Online,Stapler X,Office Supplies,5,285.17,1425.85,223.3,309.35
+ORD1249,2024-02-12,CUST583,West,Retail,Pen Pro,Stationery,6,136.06,816.36,96.98,234.48
+ORD1020,2024-01-31,CUST500,North,Online,Notebook B,Stationery,3,160.53,481.59,103.8,170.19
+ORD1188,2024-01-30,CUST539,North,Wholesale,Notebook A,Stationery,3,299.82,899.46,235.12,194.1
+ORD1071,2024-01-10,CUST509,Central,Retail,Sticky Notes,Office Supplies,2,191.44,382.88,124.74,133.4
+ORD1106,2024-01-08,CUST532,South,Online,Scissors,Office Supplies,3,138.19,414.57,86.51,155.04
+ORD1014,2024-03-20,CUST511,East,Wholesale,Notebook B,Stationery,7,143.84,1006.88,94.5,345.38
+ORD1092,2024-02-13,CUST502,West,Retail,Sticky Notes,Office Supplies,4,131.51,526.04,106.74,99.08
+ORD1179,2024-01-03,CUST500,East,Online,Notebook B,Stationery,5,204.73,1023.65,147.36,286.85
+ORD1102,2024-02-11,CUST500,South,Retail,Printer Ink,Consumables,3,212.66,637.98,137.73,224.79
